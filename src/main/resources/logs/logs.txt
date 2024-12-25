@@ -1,0 +1,5 @@
+[INFO]	25-12-2024 19:05:11		Сервлет LogServlet уничтожен
+[INFO]	25-12-2024 19:05:11		TaskServlet destroyed
+[INFO]	25-12-2024 19:05:35		Сервлет LogServlet инициализирован
+[INFO]	25-12-2024 19:06:06		Main servlet created
+[INFO]	25-12-2024 19:06:51		TaskServlet created

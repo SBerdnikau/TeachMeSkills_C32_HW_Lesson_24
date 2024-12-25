@@ -1,0 +1,25 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <context-param>
+    <param-name>appName</param-name>
+    <param-value>TeachMeSkills_C32_HW_Lesson_24</param-value>
+  </context-param>
+  <context-param>
+    <param-name>appVersion</param-name>
+    <param-value>1.0.0</param-value>
+  </context-param>
+  <context-param>
+    <param-name>developerName</param-name>
+    <param-value>Sergey Berdnikov</param-value>
+  </context-param>
+  <context-param>
+    <param-name>supportEmail</param-name>
+    <param-value>berdnikausiarhei@gmail.com</param-value>
+  </context-param>
+
+</web-app>
