@@ -1,4 +1,7 @@
+# Here, the following tasks are implemented:
 
+
+**Task 1**
 
 Implement a logging system that will record events in a file logs.txt (log events: servlet initialization, request processing, servlet destruction).
 Develop a new servlet that will process requests at /logs. This servlet should read the contents of the file. logs.txt and output it to the browser in a human-readable format.
