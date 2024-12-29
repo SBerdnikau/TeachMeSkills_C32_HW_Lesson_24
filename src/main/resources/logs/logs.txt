@@ -1,5 +1,37 @@
-[INFO]	25-12-2024 19:05:11		Сервлет LogServlet уничтожен
-[INFO]	25-12-2024 19:05:11		TaskServlet destroyed
-[INFO]	25-12-2024 19:05:35		Сервлет LogServlet инициализирован
-[INFO]	25-12-2024 19:06:06		Main servlet created
-[INFO]	25-12-2024 19:06:51		TaskServlet created
+[INFO]	29-12-2024 16:43:28		Log servlet is destroyed
+[INFO]	29-12-2024 16:43:49		Main servlet is created
+[INFO]	29-12-2024 16:43:49		Calling the main servlet
+[INFO]	29-12-2024 16:43:57		Task servlet is created
+[INFO]	29-12-2024 16:43:57		Calling the task servlet
+[INFO]	29-12-2024 16:44:07		Settings servlet is created
+[INFO]	29-12-2024 16:44:07		Calling the settings servlet
+[INFO]	29-12-2024 16:44:15		Count servlet is created
+[INFO]	29-12-2024 16:44:15		Calling the counter servlet
+[INFO]	29-12-2024 16:44:15		Counting page visits: 1
+[INFO]	29-12-2024 16:44:19		Calling the counter servlet
+[INFO]	29-12-2024 16:44:19		Counting page visits: 2
+[INFO]	29-12-2024 16:44:19		Calling the counter servlet
+[INFO]	29-12-2024 16:44:19		Counting page visits: 3
+[INFO]	29-12-2024 16:44:20		Calling the counter servlet
+[INFO]	29-12-2024 16:44:20		Counting page visits: 4
+[INFO]	29-12-2024 16:44:20		Calling the counter servlet
+[INFO]	29-12-2024 16:44:20		Counting page visits: 5
+[INFO]	29-12-2024 16:44:25		Reset servlet is created
+[INFO]	29-12-2024 16:44:25		Calling the reset servlet
+[INFO]	29-12-2024 16:44:30		Calling the counter servlet
+[INFO]	29-12-2024 16:44:30		Counting page visits: 1
+[INFO]	29-12-2024 16:44:47		Log servlet is created
+[INFO]	29-12-2024 16:44:47		Calling the log servlet
+[INFO]	29-12-2024 16:45:07		Main servlet is destroyed
+[INFO]	29-12-2024 16:45:07		Log servlet is destroyed
+[INFO]	29-12-2024 16:45:07		Task servlet is destroyed
+[INFO]	29-12-2024 16:45:07		Settings servlet is destroyed
+[INFO]	29-12-2024 16:45:07		Count servlet is destroyed
+[INFO]	29-12-2024 16:45:07		Reset servlet is destroyed
+[INFO]	29-12-2024 16:45:31		Count servlet is created
+[INFO]	29-12-2024 16:45:31		Calling the counter servlet
+[INFO]	29-12-2024 16:45:31		Counting page visits: 1
+[INFO]	29-12-2024 16:45:35		Log servlet is created
+[INFO]	29-12-2024 16:45:35		Calling the log servlet
+[INFO]	29-12-2024 16:49:25		Log servlet is destroyed
+[INFO]	29-12-2024 16:49:25		Count servlet is destroyed

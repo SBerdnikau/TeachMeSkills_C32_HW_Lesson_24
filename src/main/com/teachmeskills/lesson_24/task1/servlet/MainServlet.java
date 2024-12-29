@@ -10,15 +10,16 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-@WebServlet("/index")
+@WebServlet("/main")
 public class MainServlet extends HttpServlet {
     @Override
     public void init()  {
-        Logger.log("Main servlet created");
+        Logger.log("Main servlet is created");
     }
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        Logger.log("Calling the main servlet");
         resp.setContentType("text/html");
         resp.setCharacterEncoding("UTF-8");
 
@@ -27,6 +28,6 @@ public class MainServlet extends HttpServlet {
 
     @Override
     public void destroy() {
-        Logger.log("Main servlet destroyed");
+        Logger.log("Main servlet is destroyed");
     }
 }

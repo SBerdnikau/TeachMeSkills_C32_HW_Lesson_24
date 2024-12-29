@@ -14,11 +14,12 @@ import java.io.IOException;
 public class TaskServlet extends HttpServlet {
     @Override
     public void init() {
-        Logger.log("TaskServlet created");
+        Logger.log("Task servlet is created");
     }
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        Logger.log("Calling the task servlet");
         resp.setContentType("text/html");
         resp.setCharacterEncoding("UTF-8");
 
@@ -27,6 +28,6 @@ public class TaskServlet extends HttpServlet {
 
     @Override
     public void destroy() {
-        Logger.log("TaskServlet destroyed");
+        Logger.log("Task servlet is destroyed");
     }
 }

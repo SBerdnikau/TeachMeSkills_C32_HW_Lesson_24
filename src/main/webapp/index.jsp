@@ -8,15 +8,16 @@
 
 <nav class="navbar">
     <ul class="link-group">
-        <li class="link active"><a href="index.jsp">home</a></li>
-        <li class="link"><a href="tasks.jsp">about</a></li>
+        <li class="link"><a href="index.jsp">Home</a></li>
+        <li class="link"><a href="tasks.jsp">tasks</a></li>
     </ul>
 </nav>
 
-<section class="home-section active">
-    <h1 class="hero-heading">hello, I am Berdnikov Sergey<br>Java web developer</h1>
-    <img src="img/home.png"  class="home-img" alt="">
+<section class="home-section">
+    <h1 class="main-heading">Hello, I am Sergey Berdnikov</h1>
+    <h2 class="second-heading">I work as an electronic engineer at a Gomel enterprise. I am 36</h2>
 </section>
 
 </body>
+<footer class="footer">Copyright © 2024-2025, Developer by Sergey Berdnikov, </footer>
 </html>
